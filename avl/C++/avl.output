@@ -1,0 +1,135 @@
+
+---------------------
+AVL Tree Implementation
+
+---------------------
+1.Insert Element into the tree
+2.Display Balanced AVL Tree
+3.InOrder traversal
+4.PreOrder traversal
+5.PostOrder traversal
+6.Exit
+Enter your Choice: Enter value to be inserted: 
+---------------------
+AVL Tree Implementation
+
+---------------------
+1.Insert Element into the tree
+2.Display Balanced AVL Tree
+3.InOrder traversal
+4.PreOrder traversal
+5.PostOrder traversal
+6.Exit
+Enter your Choice: Enter value to be inserted: 
+---------------------
+AVL Tree Implementation
+
+---------------------
+1.Insert Element into the tree
+2.Display Balanced AVL Tree
+3.InOrder traversal
+4.PreOrder traversal
+5.PostOrder traversal
+6.Exit
+Enter your Choice: Enter value to be inserted: 
+---------------------
+AVL Tree Implementation
+
+---------------------
+1.Insert Element into the tree
+2.Display Balanced AVL Tree
+3.InOrder traversal
+4.PreOrder traversal
+5.PostOrder traversal
+6.Exit
+Enter your Choice: Enter value to be inserted: 
+---------------------
+AVL Tree Implementation
+
+---------------------
+1.Insert Element into the tree
+2.Display Balanced AVL Tree
+3.InOrder traversal
+4.PreOrder traversal
+5.PostOrder traversal
+6.Exit
+Enter your Choice: Enter value to be inserted: 
+---------------------
+AVL Tree Implementation
+
+---------------------
+1.Insert Element into the tree
+2.Display Balanced AVL Tree
+3.InOrder traversal
+4.PreOrder traversal
+5.PostOrder traversal
+6.Exit
+Enter your Choice: Enter value to be inserted: 
+---------------------
+AVL Tree Implementation
+
+---------------------
+1.Insert Element into the tree
+2.Display Balanced AVL Tree
+3.InOrder traversal
+4.PreOrder traversal
+5.PostOrder traversal
+6.Exit
+Enter your Choice: Balanced AVL Tree:
+
+                        55
+                9
+Root -> 8
+                        6
+                5
+                        4
+---------------------
+AVL Tree Implementation
+
+---------------------
+1.Insert Element into the tree
+2.Display Balanced AVL Tree
+3.InOrder traversal
+4.PreOrder traversal
+5.PostOrder traversal
+6.Exit
+Enter your Choice: Inorder Traversal:
+4  5  6  8  9  55  
+
+---------------------
+AVL Tree Implementation
+
+---------------------
+1.Insert Element into the tree
+2.Display Balanced AVL Tree
+3.InOrder traversal
+4.PreOrder traversal
+5.PostOrder traversal
+6.Exit
+Enter your Choice: Preorder Traversal:
+8  5  4  6  9  55  
+
+---------------------
+AVL Tree Implementation
+
+---------------------
+1.Insert Element into the tree
+2.Display Balanced AVL Tree
+3.InOrder traversal
+4.PreOrder traversal
+5.PostOrder traversal
+6.Exit
+Enter your Choice: Postorder Traversal:
+4  6  5  55  9  8  
+
+---------------------
+AVL Tree Implementation
+
+---------------------
+1.Insert Element into the tree
+2.Display Balanced AVL Tree
+3.InOrder traversal
+4.PreOrder traversal
+5.PostOrder traversal
+6.Exit
+Enter your Choice: 
